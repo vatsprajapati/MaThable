@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaThable</string>
+    <string name="table_generator">Table Generator</string>
+    <string name="gcd_amp_lcm"><![CDATA[GCD & LCM]]></string>
+    <string name="series_no_of_nth_term_sum_of_n_term_etc">Series (No of nth term, Sum of N term, etc)</string>
+    <string name="pythagorian_triplates">Pythagorian Triplates</string>
+    <string name="area_of_shapes">Area Of Shapes</string>
+    <string name="volume_of_shapes">Volume Of Shapes</string>
+</resources>
